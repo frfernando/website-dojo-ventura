@@ -8,3 +8,7 @@ dist/
 !.env.example
 # Lo-Fi Box — wireframe local fora do git (não commitar rascunho)
 lofi/
+
+*.zip
+*.mp4
+Fotos videos diversos/
